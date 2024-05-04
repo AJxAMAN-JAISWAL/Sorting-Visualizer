@@ -166,6 +166,11 @@ section #Info_Cont2 h3 {
   display: none;
 }
 
+#array_container{
+  
+  transform: rotate(180deg);
+}
+
 /*
 @media (max-width: 480px)//Mobiles
 {
