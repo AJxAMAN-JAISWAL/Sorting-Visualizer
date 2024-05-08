@@ -62,7 +62,7 @@ nav .header_right {
 
 nav .header_right .nav-heading {
   display: inline-block;
-  font-size: xxx-large;
+  font-size: larger;
   padding: 3% 0%;
 }
 
@@ -70,7 +70,7 @@ nav .header_right .algos {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (16.66667%)[6];
-      grid-template-columns: repeat(6, 16.66667%);
+  grid-template-columns: repeat(6, 16.66667%);
   place-content: center;
   padding: 2% 0%;
 }
